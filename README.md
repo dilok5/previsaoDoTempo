@@ -19,3 +19,6 @@ Este projeto é uma aplicação simples em Python, utilizando a biblioteca **Tki
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+
+Você pode modificar o conteúdo para personalizar ainda mais. Se precisar de ajustes ou ajuda, avise!
