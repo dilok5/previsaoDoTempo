@@ -1,0 +1,37 @@
+[
+    {
+        "data_hora": "25/11/2024 21:02:50",
+        "cidade": "São Paulo",
+        "temperatura": "21",
+        "umidade": "68%",
+        "descricao": "Céu limpo com poucas nuvens"
+    },
+    {
+        "data_hora": "25/11/2024 21:02:59",
+        "cidade": "São Paulo",
+        "temperatura": "21",
+        "umidade": "68%",
+        "descricao": "Céu limpo com poucas nuvens"
+    },
+    {
+        "data_hora": "25/11/2024 21:03:06",
+        "cidade": "São Paulo",
+        "temperatura": "21",
+        "umidade": "68%",
+        "descricao": "Céu limpo com poucas nuvens"
+    },
+    {
+        "data_hora": "25/11/2024 21:04:24",
+        "cidade": "São Paulo",
+        "temperatura": "21",
+        "umidade": "68%",
+        "descricao": "Céu limpo com poucas nuvens"
+    },
+    {
+        "data_hora": "25/11/2024 21:27:44",
+        "cidade": "São Paulo",
+        "temperatura": "21",
+        "umidade": "68%",
+        "descricao": "Céu limpo com poucas nuvens"
+    }
+]
